@@ -12,6 +12,4 @@ A mock UI app of the Booking.com App
 - Developed on Android Studio using Java
 
 ## Demo
-![Demo](/demo/demo.png?raw=true =250x "Demo")
-
-<img src="/demo/demo.png" alt="Demo Screenshot" width="200" height="500">
+<img src="/demo/demo.png" alt="Demo Screenshot" width="360" height="640">
