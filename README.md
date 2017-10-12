@@ -10,3 +10,6 @@ A mock UI app of the Booking.com App
 
 ## Information
 - Developed on Android Studio using Java
+
+## Demo
+![Demo](/demo/demo.png?raw=true "Demo")
