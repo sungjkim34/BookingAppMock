@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jay/Projects/BookingAppMock/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="883e427e43bdbb9c1e17864d7bff0c6cea0f4a8d">
+        <dex dex="/Users/jay/Projects/BookingAppMock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0987143c69856cb2d2cc655c42a1d8f46cf540a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jay/Projects/BookingAppMock/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jay/Projects/BookingAppMock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e0a8983bfce3f8cb6bb3ea4b81109f93ed36399/classes.dex" />
+    </item>
+
+</items>

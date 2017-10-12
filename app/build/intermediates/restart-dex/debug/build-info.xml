@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    build-mode="COLD"
+    density="xxhdpi"
+    format="10"
+    plugin-version="2.3.3"
+    timestamp="1507845702093"
+    token="102173081046623779"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="246" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="76" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="/Users/jay/Projects/BookingAppMock/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jay/Projects/BookingAppMock/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jay/Projects/BookingAppMock/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1507845605987"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/jay/Projects/BookingAppMock/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1507845702093"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/jay/Projects/BookingAppMock/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jay/Projects/BookingAppMock/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jay/Projects/BookingAppMock/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

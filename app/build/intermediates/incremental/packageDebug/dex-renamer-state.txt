@@ -1,0 +1,7 @@
+#Thu Oct 12 18:01:45 EDT 2017
+base.0=/Users/jay/Projects/BookingAppMock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e0a8983bfce3f8cb6bb3ea4b81109f93ed36399
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jay/Projects/BookingAppMock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0987143c69856cb2d2cc655c42a1d8f46cf540a1/classes.dex
+base.1=/Users/jay/Projects/BookingAppMock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0987143c69856cb2d2cc655c42a1d8f46cf540a1
+file.0=/Users/jay/Projects/BookingAppMock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e0a8983bfce3f8cb6bb3ea4b81109f93ed36399/classes.dex
