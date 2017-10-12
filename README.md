@@ -13,3 +13,5 @@ A mock UI app of the Booking.com App
 
 ## Demo
 ![Demo](/demo/demo.png?raw=true =250x "Demo")
+
+<img src="/demo/demo.png" alt="Demo Screenshot" width="200" height="500">
